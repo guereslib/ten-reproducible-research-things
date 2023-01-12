@@ -11,14 +11,14 @@
 # SITE SETTINGS
 #
 # title appears in the header
-title: Long Lesson Template
+title: Ten reproducible research things
 # title-icon appears in the header to give some pizazz (leave blank for none)
 # choose from Bootstrap Icons in _includes/bootstrap-icons
 # find names on https://icons.getbootstrap.com/ (or look in "_includes/bootstrap-icons")
 # some options: code-slash file-code gear tools lightblub book bookmark-star
 title-icon: book
 # description appears in sidebar footer
-description: "A template for longer lessons with more than 5 sections"
+description: "Ten ways to make sure your research is reproducible"
 # keywords for meta tags used by search engines
 keywords: "workshops, websites, gh-pages, jekyll"
 # image for meta tags, will appear when sharing link on social media
