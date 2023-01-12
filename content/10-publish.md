@@ -1,6 +1,6 @@
 ---
 nav_order: 11
-title: Step 10 - Publish Data with Persistent Identifiers 
+title: 10 - Publish Data with Persistent Identifiers 
 ---
 
 {% include figure.html img="2022-11-29_14-50-46.jpg" alt="Image representing identification" caption="Use persistant identifiers to make your research discoverable" width="75%" %}

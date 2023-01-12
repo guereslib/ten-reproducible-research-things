@@ -1,6 +1,6 @@
 ---
 nav_order: 9
-title: Step 8 - Computer Security
+title: 8 - Computer Security
 ---
 
 {% include figure.html img="2022-11-29_15-35-31.jpg" alt="Image representing computer security" caption="Secure your computer and your network" width="75" %}

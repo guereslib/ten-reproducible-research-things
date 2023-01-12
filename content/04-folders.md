@@ -1,6 +1,6 @@
 ---
 nav_order: 5
-title: Step 4 - Folder Structures
+title: 4 - Folder Structures
 ---
 
 Using a standard folder structure can keep your files organised and save you time looking for data.  It can also help if you are sharing files with colleagues to have a standard place to put working data and documentation.

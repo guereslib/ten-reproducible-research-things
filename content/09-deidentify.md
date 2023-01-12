@@ -1,6 +1,6 @@
 ---
 nav_order: 10
-title: Step 9 - De-identify sensitive data
+title: 9 - De-identify sensitive data
 ---
 {% include figure.html img="2022-11-29_15-56-19.jpg" alt="Image representing sensitive" caption="Sensitive data introduces a risk of harm or unwanted attention" width="50" %}
 

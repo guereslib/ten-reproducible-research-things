@@ -1,6 +1,6 @@
 ---
 nav_order: 3
-title: Step 2 - Documentation
+title: 2 - Documentation
 ---
 
 {% include alert.html text="*'Documentation is a love letter to your future self'* - Dr Damian Conway, Computer Scientist" align="center" color="success" %}
