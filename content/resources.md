@@ -1,6 +1,5 @@
 ---
 title: Reference & Resources
-nav: Resources
 ---
 
 ### References
