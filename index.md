@@ -1,17 +1,14 @@
 ---
-title: Griffith Library Workshop Template
+title: Ten reproducible research things
 layout: lesson-content
 ---
 
-A minimal Jekyll theme with sidebar content nav for creating lesson and workshop websites using Markdown.
+## Aims
+This self-paced tutorial outlines ten steps to make your research reproducible, beginning with data quality, documentation, management of sensitive data, through to the publication of datasets. The aim is to move towards reproducible research regardless of your current skills, and includes useful resources for beginners, intermediate and advanced learners.
 
-{% include figure.html img="university-drive.jpg" alt="University Drive, Southport" caption="University Drive, Southport" width="75%" %}
+## Audience
 
-*Add your workshop abstract here!*
-
-Learn how to create a super quick easy website for a workshop by writing a few markdown files! 
-Host it for free on GitHub with gh-pages, and share!
-Fun!
+This workshop is aimed at researchers and research students.
 
 {% include toc.html %}
 
