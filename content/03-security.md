@@ -36,6 +36,3 @@ Secure your computer and your network to to reduce the risk of a data breach, th
 3. Keep your operating system and products up to date (especially your web browsers)
 * You can use [Qualsys Browser Check](https://browsercheck.qualys.com/) to confirm your browser is set securely
 * Review Griffith's [cybersecurity-at-home](https://www.griffith.edu.au/about-griffith/cybersecurity/cybersecurity-at-home) for more information.{% endcapture %}{% include card.html header="Advanced" text=text %}
- 
-
-[Previous](https://guereslib.github.io/Reproducible-Research-Things/Step6CloudBackup)  |  [Home](https://guereslib.github.io/Reproducible-Research-Things/) | [Next Page](https://guereslib.github.io/Reproducible-Research-Things/Step8SepId)
