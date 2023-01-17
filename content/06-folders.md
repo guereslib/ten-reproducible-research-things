@@ -40,5 +40,3 @@ Use a [python package](https://github.com/vukovicnikola/templateproject) develop
 ### External Resources
 * [Griffith University example template](https://github.com/guereslib/MyResearchProjects/archive/master.zip) for download.
 * [University of Sydney README template](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwirpZzmyNL7AhUayTgGHb8tAewQFnoECB8QAQ&url=https%3A%2F%2Flibrary.sydney.edu.au%2Fresearch%2Fdata-management%2Fdownloads%2FREADME-template.docx&usg=AOvVaw0Z3q0K1PsGivmQY-qNFpZL)
-
-[Previous](https:)| [Home](https:) | [Next Page](https:)
