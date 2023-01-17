@@ -25,19 +25,19 @@ Reproducible research has most of the advantages of replicating studies without 
 
 {% include alert.html text="#### Some scenarios to consider:
 
-1. A key person from your research team has disappeared (family, personal emergency or no longer contactable). 
+{% include icon.html icon='person-exclamation!' %} A key person from your research team has disappeared (family, personal emergency or no longer contactable). 
 - Could you continue your work? 
 - Do you know where your data is stored? 
 - Could you keep working effectively for 1 month? 1 year?
 
-2. You lose your laptop bag containing your all your external hard drives. 
+{% include icon.html icon='laptop-fill' %} You lose your laptop bag containing your all your external hard drives. 
 - Could you continue your work? 
 - Is your data backed up? Encrypted?
 
-3. Someone has published contradicting results to your published paper
+{% include icon.html icon='journal-medical' %} Someone has published contradicting results to your published paper
 - Can your provide your data and methods?
 
-4. A research partner organization believes your sensitive data has been breached or made available to a third party. 
+{% include icon.html icon='shield-fill-exclamation' %} A research partner organization believes your sensitive data has been breached or made available to a third party. 
 - Can you show the steps taken and measures put in place to avoid this?
 
 Work through the following lessons for practical solutions and ideas." align="left" color="success" %}
