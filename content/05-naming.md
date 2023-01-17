@@ -1,6 +1,6 @@
 ---
-nav_order: 4
-title: 3 - Naming Conventions
+nav_order: 6
+title: 5 - Naming Conventions
 ---
 {% include figure.html img="2022_NamingImage.JPG" alt="Image representing writing" caption="Naming files consistently will save time and effort later" width="75%" %} 
 
