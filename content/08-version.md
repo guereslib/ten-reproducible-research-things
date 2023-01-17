@@ -52,5 +52,3 @@ If you’ve heard of [Docker](https://www.docker.com/) or [Singularity](https://
 * [What is git](https://opensource.com/resources/what-is-git)
 * [Reproducibility in SPSS](https://andrewpwheeler.wordpress.com/2012/03/20/making-a-reproducible-example-in-spss/)
 * [Learn Software Carpentry in Git](http://swcarpentry.github.io/git-novice)
-
-[Previous]()|  [Home]() | [Next Page]() 
