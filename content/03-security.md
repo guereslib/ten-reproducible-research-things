@@ -1,6 +1,6 @@
 ---
-nav_order: 9
-title: 8 - Computer Security
+nav_order: 4
+title: 3 - Computer Security
 ---
 
 {% include figure.html img="2022-11-29_15-35-31.jpg" alt="Image representing computer security" caption="Secure your computer and your network" width="75" %}
