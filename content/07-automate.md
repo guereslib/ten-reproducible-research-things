@@ -1,6 +1,6 @@
 ---
-nav_order: 7
-title: 6 - Automation
+nav_order: 8
+title: 7 - Automation
 ---
 
 {% include figure.html img="2022_AutoImage.JPG" alt="Image representing automation" caption="Automating repetitive data tasks can reduce errors." width="75%" %}
