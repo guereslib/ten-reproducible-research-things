@@ -26,7 +26,7 @@ Reproducible research has most of the advantages of replicating studies without 
 {% include alert.html text="
 #### Some scenarios to consider:
 
-1. A key person from your research team has disappeard (family, personal emergency or no longer contactable). 
+1. A key person from your research team has disappeared (family, personal emergency or no longer contactable). 
 - Could you continue your work? 
 - Do you know where your data is stored? 
 - Could you keep working effectively for 1 month? 1 year?
