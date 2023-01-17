@@ -23,6 +23,7 @@ Reproducible research has most of the advantages of replicating studies without 
 - Enhances opportunities for research methods training
 - Reproducible research is a strong indicator of rigour, trustworthiness and transparency
 
+{% include alert.html text="
 #### Some scenarios to consider:
 
 1. A key person from your research team has disappeard (family, personal emergency or no longer contactable). 
@@ -40,54 +41,4 @@ Reproducible research has most of the advantages of replicating studies without 
 4. A research partner organization believes your sensitive data has been breached or made available to a third party. 
 - Can you show the steps taken and measures put in place to avoid this?
 
-Work through the following lessons for practical solutions and good practice ideas.
-
-<p align="center">
-  <a href="https://griffithunilibrary.github.io/ten-repo/content/01-quality.html">NEXT --></a>
-</p>
-
-## Topic and aims
-
-Place the topic of your workshop here, for example: LimeSurvey, Digital Dexterity, Copyright for researchers, etc.
-
-## Audience
-
-This workshop is aimed at researchers and academics in the field of biostatistics.
-
-## Learning objectives
-
-{% capture learningobjectives %}
-
-| Once you have completed this workshop you should be able to: |
-| -----|
-| Explain the difference between copyright and academic integrity  |
-| Identify the most common sources of GLAM archival text  |
-| Verb a noun with the following limiting words  |
-{:.table}
-
-{% endcapture %}
-{% include card.html header="Learning outcomes" text=learningobjectives %}
-
-## Prerequisites
-
-{% capture requiredsoftware %}
-
-| You will need the following software to successfully complete this workshop: |
-| -----|
-| A modern browser  |
-| An installation of [OpenRefine](https://openrefine.org)  |
-{:.table}
-
-{% endcapture %}
-{% include card.html header="Required software" text=requiredsoftware %}
-
-{% capture assumedknowledge %}
-
-| It is assumed that you have the following level of understanding: |
-| -----|
-| Ability to install software on your own device |
-| Foundational data terminology such as tabular data, binary data, csv, tables, fields etc.  |
-{:.table}
-
-{% endcapture %}
-{% include card.html header="Assumed knowledge" text=assumedknowledge %}
+Work through the following lessons for practical solutions and ideas." align="left" color="success" %}
