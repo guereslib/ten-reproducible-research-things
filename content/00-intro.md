@@ -30,6 +30,7 @@ Reproducible research has most of the advantages of replicating studies without 
 - Could you continue your work? 
 - Do you know where your data is stored? 
 - Could you keep working effectively for 1 month? 1 year?
+<br>
 
 2. You lose your laptop bag containing your all your external hard drives. 
 - Could you continue your work? 
