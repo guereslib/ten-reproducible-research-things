@@ -21,5 +21,3 @@ Ways you can automate things:
 {% capture text %}
 Could you code up your work so its completely automated? 
 * Learn to code in [Python](https://www.python.org/) or [R](https://www.r-project.org/) - Talk to your local hacky hour or Software Carpentry people.{% endcapture %}{% include card.html header="Advanced" text=text %}
-
-[Previous]() | [Home]() | [Next Page]()
