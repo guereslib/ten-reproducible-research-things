@@ -1,6 +1,6 @@
 ---
-nav_order: 7
-title: 6 - Version Control
+nav_order: 9
+title: 8 - Version Control
 ---
 {% include figure.html img="2022_VersionsImage.JPG" alt="Image representing versioning with numbers" caption="Version allows you to keep track of changes to your data." width="75%" %}
 
