@@ -96,5 +96,3 @@ How?
 ##### External Resources
 * [ARDC Data & Software Citation Guide](https://ardc.edu.au/resource/data-and-software-citation/)
 * Honor, L. B., Haselgrove, C., Frazier, J. A., & Kennedy, D. N. (2016). Data citation in neuroimaging: Proposed best practices for data identification and attribution. Frontiers in neuroinformatics, 10, 34. [https://doi.org/10.3389/fninf.2016.00034](https://doi.org/10.3389/fninf.2016.00034)
-
-[Previous]() | [Home]() 
