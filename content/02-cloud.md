@@ -40,5 +40,3 @@ Is a solution for long term storage and backup of data. The Research Vault is su
 {% capture text %}Back up your data to the cloud in [Research Storage](https://research-storage.griffith.edu.au/) - if you need help selecting the right storage solution for your context, talk to the [Library](https://www.griffith.edu.au/library/contact) or [eResearch Services](https://www.griffith.edu.au/eresearch-services#contact).{% endcapture %}{% include card.html header="Beginner" text=text %}
 
 {% capture text %}Develop a plan for your team or group on the storage, back up and retrieval data, include both day to day workflows and long term storage. Make sure the location of your data is saved in your documentation. Your organisation may have a [data managment planning template](https://www.griffith.edu.au/__data/assets/word_doc/0024/1235256/20210107-Data-management-plan-template-and-examples.docx) you can download to document and share these decisions.{% endcapture %}{% include card.html header="Advanced" text=text %} 
-
-[Previous]() | [Home]()  | [Next Page]()
