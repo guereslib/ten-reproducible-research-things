@@ -66,6 +66,3 @@ Five Safe Framework has five dimensions with associated risks and management sol
 
 Watch this short video from the UK Data Service on how the framework can be applied.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Mln9T52mwj0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-
-[Previous]() | [Home]() | [Next Page]()
