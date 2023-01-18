@@ -52,7 +52,7 @@ text1="(family, personal emergency or no longer contactable).
  title3="Scenario - Someone has published contradicting results to your published paper." 
  text3="- Can your provide your data and methods?" 
  title4="Scenario - A research partner organization believes your sensitive data has been breached or made available to a third party." 
- text3="- Can you show the steps taken and measures put in place to avoid this?" %}
+ text4="- Can you show the steps taken and measures put in place to avoid this?" %}
 
 #### References
 1. Alston, J. M., & Rick, J. A. (2021). A beginner's guide to conducting reproducible research. Bulletin of the Ecological Society of America, 102(2). https://doi.org/10.1002/bes2.1801
