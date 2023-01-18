@@ -14,7 +14,6 @@ Reproducible research has most of the advantages of replicating studies without 
 ##### Video: Why reproducible research?
 <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/766353650?h=fb39c9c8a8&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:80%;height:80%;" title="Reproducible Research Tutorial"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 
-{% include icon.html icon='mortarboard-fill' %}
 #### Benefits of reproducible research
 - Easier to recall and explain work to collaborators, supervisors and reviewers
 - Faster to modify analyses and figures
@@ -25,18 +24,20 @@ Reproducible research has most of the advantages of replicating studies without 
 - Reproducible research is a strong indicator of rigour, trustworthiness and transparency
 
 {% include alert.html text="#### Some scenarios to consider:
- A key person from your research team has disappeared (family, personal emergency or no longer contactable). 
+
+{% include icon.html icon='person-exclamation' %} A key person from your research team has disappeared (family, personal emergency or no longer contactable). 
 - Could you continue your work? 
 - Do you know where your data is stored? 
 - Could you keep working effectively for 1 month? 1 year?
 
- You lose your laptop bag containing your all your external hard drives. 
+{% include icon.html icon='laptop-fill' %} You lose your laptop bag containing your all your external hard drives. 
 - Could you continue your work? 
 - Is your data backed up? Encrypted?
 
- Someone has published contradicting results to your published paper
+{% include icon.html icon='journal-medical' %} Someone has published contradicting results to your published paper
 - Can your provide your data and methods?
- A research partner organization believes your sensitive data has been breached or made available to a third party. 
+ 
+{% include icon.html icon='shield-fill-exclamation' %} A research partner organization believes your sensitive data has been breached or made available to a third party. 
 - Can you show the steps taken and measures put in place to avoid this?
 
 Work through the following lessons for practical solutions and ideas." align="left" color="success" %}
