@@ -43,7 +43,7 @@ Work through the following lessons for practical solutions and ideas.{% endcaptu
 
 #### Some scenarios to consider
 
-{% include accordion.html title1="A key person from your research team has left suddenly due to a family emergency." {% include icon.html icon='file-earmark-lock2-fill' %}text1="- Could you continue your work? 
+{% include accordion.html title1="A key person from your research team has left suddenly due to a family emergency." text1="- Could you continue your work? 
  - Do you know where your data is stored? 
  - Could you keep working effectively for 1 month? 1 year?" title2="You lose your laptop bag containing your all your external hard drives." text2="- Could you continue your work?
  - Is your data backed up? Encrypted?" title3="Someone has published contradicting results to your published paper." text3="- Can your provide your data and methods?" title4="A research partner organization believes your sensitive data has been breached or made available to a third party." text4="- Can you show the steps taken and measures put in place to avoid this?" %}
