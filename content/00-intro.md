@@ -29,9 +29,9 @@ A key person from your research team has disappeared (family, personal emergency
 - Do you know where your data is stored? 
 - Could you keep working effectively for 1 month? 1 year?
 
-{% include icon.html icon='laptop' %}You lose your laptop bag containing your all your external hard drives. 
-- Could you continue your work? 
-- Is your data backed up? Encrypted?
+-{% include icon.html icon='laptop' %}You lose your laptop bag containing your all your external hard drives. 
+ - Could you continue your work? 
+ - Is your data backed up? Encrypted?
 
 Someone has published contradicting results to your published paper
 - Can your provide your data and methods?
