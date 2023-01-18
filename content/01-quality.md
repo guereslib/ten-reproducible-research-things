@@ -9,7 +9,7 @@ title: 1 - Data quality
 
 
 {% capture text %}
-Scenario: Are your datasets future-proof? Can your provide your data and methods? {% include icon.html icon='journal-medical' %}{% endcapture %}{% include card.html text=text %}
+Scenario - Are your datasets future-proof? Can your provide your data and methods? {% include icon.html icon='journal-medical' %}{% endcapture %}{% include card.html text=text "card text-bg-success mb-3" %}
 
 As your research progresses, new possibilities for enquiry might be revealed, and you may want to use a new method to analyse your data. Depending on how you recorded and stored your data, it may take a lot of time-consuming work to reconfigure your datasets before you can process the new analysis. While all the necessary data may exist within your datasets, there may be no simple and reliable method for extracting it.
 
