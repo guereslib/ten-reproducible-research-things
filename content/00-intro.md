@@ -14,6 +14,7 @@ Reproducible research has most of the advantages of replicating studies without 
 ##### Video: Why reproducible research?
 <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/766353650?h=fb39c9c8a8&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:80%;height:80%;" title="Reproducible Research Tutorial"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 
+{% include icon.html icon='mortarboard-fill' %}
 #### Benefits of reproducible research
 - Easier to recall and explain work to collaborators, supervisors and reviewers
 - Faster to modify analyses and figures
