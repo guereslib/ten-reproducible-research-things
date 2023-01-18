@@ -24,19 +24,19 @@ Reproducible research has most of the advantages of replicating studies without 
 - Reproducible research is a strong indicator of rigour, trustworthiness and transparency
 
 {% capture text %}
-&nbsp;{% include icon.html icon='person-x' %}&nbsp; A key person from your research team has disappeared (family, personal emergency or no longer contactable).{% include icon.html icon='person-x' %}
+&nbsp;{% include icon.html icon='person-x' %}&nbsp; A key person from your research team has disappeared (family, personal emergency or no longer contactable).
  - Could you continue your work? 
  - Do you know where your data is stored? 
  - Could you keep working effectively for 1 month? 1 year?
 
-&nbsp;{% include icon.html icon='cloud-check-fill' %}&nbsp; You lose your laptop bag containing your all your external hard drives. {% include icon.html icon='cloud-check-fill' %}
+&nbsp;{% include icon.html icon='cloud-check-fill' %}&nbsp; You lose your laptop bag containing your all your external hard drives.
  - Could you continue your work? 
  - Is your data backed up? Encrypted?
 
-&nbsp;{% include icon.html icon='journal-medical' %}&nbsp; Someone has published contradicting results to your published paper {% include icon.html icon='journal-medical' %}
+&nbsp;{% include icon.html icon='journal-medical' %}&nbsp; Someone has published contradicting results to your published paper.
 - Can your provide your data and methods?
  
-&nbsp;{% include icon.html icon='file-earmark-lock2-fill' %}&nbsp; A research partner organization believes your sensitive data has been breached or made available to a third party.{% include icon.html icon='file-earmark-lock2-fill' %} 
+&nbsp;{% include icon.html icon='file-earmark-lock2-fill' %}&nbsp; A research partner organization believes your sensitive data has been breached or made available to a third party.
 - Can you show the steps taken and measures put in place to avoid this?
 
 Work through the following lessons for practical solutions and ideas.{% endcapture %}{% include card.html header="Some scenarios to consider" text=text %}
