@@ -19,5 +19,19 @@ Ways you can automate things:
 * [Microsoft Power Automate](https://powerautomate.microsoft.com/en-gb/) or [Google Apps Script](https://www.google.com/script/start/){% endcapture %}{% include card.html header="First steps" text=text %}
 
 {% capture text %}
+From survey tools to programming languages, there are several ways to automate beyond macros, and spreadsheet formulas. If you are reliant on a survey tool to conduct qualitative research, try and select a survey tool with a lot of functionality. For example, some survey tools allow the survey creator/administrator to request demographic responses, which then informs how a survey particpants is guided through the survey with specific questionnaires for each predefined demographic.
+
+Alternatively, could you code up your work so its completely automated?
+* Learn to code in [Python](https://www.python.org/) or [R](https://www.r-project.org/) - Talk to your local hacky hour or Software Carpentry people.
+
+Developing code requires an initial outlay of effort, but you will reap rewards in future time saved.
+
+* **Data Cleaning**
+    * Code can be used to automatically process data, impute corrections, or format data into long/wide structures. 
+
+* **Data Analysis and Visualisation**
+    * For a qualitative reseearcher, sentiment analysis algorithms can be coded in Python to increase efficiency and capacity of analysed text. The results can then be visualised using graphical packages from Python or R. {% endcapture %}{% include card.html header="Intermediate" text=text %}
+
+{% capture text %}
 Could you code up your work so its completely automated? 
-* Learn to code in [Python](https://www.python.org/) or [R](https://www.r-project.org/) - Talk to your local hacky hour or Software Carpentry people.{% endcapture %}{% include card.html header="Advanced" text=text %}
+{% endcapture %}{% include card.html header="Advanced" text=text %}
