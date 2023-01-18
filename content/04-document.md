@@ -2,7 +2,7 @@
 nav_order: 5
 title: 4 - Documentation
 ---
-A key person from your research team has disappeared, could you continue your work? {% include icon.html icon='person-exclamation' %}
+A key person from your research team has disappeared, could you continue your work? {% include icon.html icon='person-fill-exclamation' %}
 
 
 {% include alert.html text="*'Documentation is a love letter to your future self'* - Dr Damian Conway, Computer Scientist" align="center" color="success" %}
