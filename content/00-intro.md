@@ -29,7 +29,7 @@ Reproducible research has most of the advantages of replicating studies without 
  - Do you know where your data is stored? 
  - Could you keep working effectively for 1 month? 1 year?
 
-&nbsp;{% include icon.html icon='laptop' %}&nbsp;You lose your laptop bag {% include icon.html icon='laptop' %} containing your all your external hard drives. {% include icon.html icon='laptop' %}
+&nbsp;{% include icon.html icon='laptop' %}&nbsp; You lose your laptop bag {% include icon.html icon='laptop' %} containing your all your external hard drives. {% include icon.html icon='laptop' %}
  - Could you continue your work? 
  - Is your data backed up? Encrypted?
 
