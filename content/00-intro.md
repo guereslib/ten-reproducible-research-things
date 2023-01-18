@@ -23,12 +23,13 @@ Reproducible research has most of the advantages of replicating studies without 
 - Enhances opportunities for research methods training
 - Reproducible research is a strong indicator of rigour, trustworthiness and transparency
 
-{% capture text %}{% include icon.html icon='laptop' %}A key person from your research team has disappeared (family, personal emergency or no longer contactable).
+{% capture text %}
+A key person from your research team has disappeared (family, personal emergency or no longer contactable).
 - Could you continue your work? 
 - Do you know where your data is stored? 
 - Could you keep working effectively for 1 month? 1 year?
 
-You lose your laptop bag containing your all your external hard drives. 
+{% include icon.html icon='laptop' %}You lose your laptop bag containing your all your external hard drives. 
 - Could you continue your work? 
 - Is your data backed up? Encrypted?
 
