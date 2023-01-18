@@ -7,18 +7,7 @@ title: 1 - Data quality
 
 ### "Tidy data" principles
 
-<div class="card bg-light mb-3" style="max-width: 18rem;">
-  <div class="card-header">Header</div>
-  <div class="card-body">
-    <h5 class="card-title">Light card title</h5>
-    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-  </div>
-</div>
-
 <div class="p-3 mb-2 bg-light text-dark">Scenario - Are your datasets future-proof? Can your provide your data and methods? {% include icon.html icon='journal-medical' %}</div>
-
-{% capture text %}
-Scenario - Are your datasets future-proof? Can your provide your data and methods? {% include icon.html icon='journal-medical' %}{% endcapture %}{% include card.html text=text %}
 
 As your research progresses, new possibilities for enquiry might be revealed, and you may want to use a new method to analyse your data. Depending on how you recorded and stored your data, it may take a lot of time-consuming work to reconfigure your datasets before you can process the new analysis. While all the necessary data may exist within your datasets, there may be no simple and reliable method for extracting it.
 
