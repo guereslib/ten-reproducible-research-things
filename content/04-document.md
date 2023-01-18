@@ -2,10 +2,7 @@
 nav_order: 5
 title: 4 - Documentation
 ---
-A key person from your research team has disappeared, could you continue your work? {% include icon.html icon='person-x' color="success" %}
-
-
-{% include alert.html text="*'Documentation is a love letter to your future self'* - Dr Damian Conway, Computer Scientist" align="center" color="success" %}
+<div class="p-3 mb-2 bg-light text-dark">Scenario: A key person from your research team has disappeared, could you continue your work? {% include icon.html icon='person-x' color="success" %}</div> 
 
 Throughout your research, you make many choices, from topic to methodology, from techniques to measurements, from data source to storage format. The choices you make at one stage will affect the choices you make at the next.  
 
@@ -16,6 +13,8 @@ There may be more than one valid way to collect and to analyse data but if the s
 The choices made at the time may seem obvious, but it may not be so in future. Choices are often limited by methodology or technology but both may undergo changes or digital disruption after the project is over, or even during the project.  
 
 Within a research group, another possible disruption is the loss of one of the members of the team. If that happens with someone whose role or skills are crucial to the project. Comprehensive documentation can be crucial to the future of the project when someone new takes over that role. 
+
+{% include alert.html text="*'Documentation is a love letter to your future self'* - Dr Damian Conway, Computer Scientist" align="center" color="success" %}
 
 ## Documentation to safeguard the project
 
