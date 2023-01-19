@@ -26,31 +26,6 @@ What is the difference?
 
 
 {% capture text %}
-#### Identifiers
-
-An identifier is any label used to name an item (whether digital or physical).  URLs and serial numbers are an examples of digital identifiers. 
-
-Personal names are also identifiers, but are not necessarily unique as you may share the same name with other researchers around the world.
-{% include figure.html img="Barcodes.png" alt="Serial numbers & URLS" caption="Serial numbers & URLS" width="25%" %}
-Management of these digital identifiers is NOT guaranteed:
-
-* links disappear
-* websites shut down
-* product support ends
-
-#### Persistent Identifiers
-
-A persistent identifier is long-lasting unique digital reference to a webpage, digital object, even a person.
-
-Examples include the [Open Researcher and Contributor ID (ORCID)](https://orcid.org/) and [Digital Object Identifiers (DOI)](https://www.doi.org/).
-
-Management of persistent identifiers IS guaranteed:
-
-* links are kept up to date over a defined time period
-* links will find the object, even when websites change.{% endcapture %}{% include card.html header="Identifiers vs Persistent Identifiers" text=text %}
-
-
-{% capture text %}
 #### A Digital Object Identifier (DOI) is a unique alphanumeric string that:
 
 * is assigned by either a publisher, organisation or agency 
