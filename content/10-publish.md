@@ -16,9 +16,9 @@ What is the difference?
 
 | Identifiers | Persistent Identifiers |
 | -----| ------|
-| *examples* ||
+| *examples*... ||
 | your name, urls, serial numbers | [Open Researcher and Contributor ID (ORCID)](https://orcid.org/), [Digital Object Identifiers (DOI)](https://www.doi.org/) |
-| *management over time*||
+| *management over time*...||
 | links disappear | links are kept up to date over a defined time period |
 | websites shut down |  links will find the object, even when websites change |
 | product support ends | management guaranteed |
