@@ -5,6 +5,8 @@ title: 10 - Publish Data with Persistent Identifiers
 
 {% include figure.html img="2022-11-29_14-50-46.jpg" alt="Image representing identification" caption="Use persistant identifiers to make your research discoverable" width="75%" %}
 
+{% capture text %}
+:notebook: Scenario: Someone has published contradicting results to your published paper. Can your provide your data and methods?{% endcapture %}{% include alert.html text=text color=success %}
 <div class="p-3 mb-2 bg-secondary text-white"> :notebook: Scenario: Someone has published contradicting results to your published paper. Can your provide your data and methods?{% include icon.html icon='journal-medical' %}</div> 
 
 {% capture text %}
