@@ -6,7 +6,7 @@ title: 3 - Computer Security
 {% include figure.html img="2022-11-29_15-35-31.jpg" alt="Image representing computer security" caption="Secure your computer and your network" width="75" %}
 
 {% capture text %}
-Scenario: Can you show the steps taken and measures put in place to avoid data breaches? Is your data encrypted? {% include icon.html icon='file-earmark-lock2-fill' %}{% endcapture %}{% include alert.html text=text color=success %}
+Scenario: Can you show the steps taken and measures put in place to avoid data breaches? Is your data encrypted?{% include icon.html icon='file-earmark-lock2-fill' %}{% endcapture %}{% include alert.html text=text color=success %}
 
 Secure your computer and your network to to reduce the risk of a data breach, theft, hack or misuse. Incorporate the following practices into your everyday routine as well as workplace procedures and policy. Encourage others to do so as well. 
 
