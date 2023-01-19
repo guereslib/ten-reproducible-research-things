@@ -6,7 +6,7 @@ title: 2 - Cloud backups
 {% include figure.html img="2022-11-29_14-20-30.jpg" alt="Image representing cloud data storage" caption="Well-chosen storage solutions simplify version control and collaboration" width="75%" %}
 
 {capture text}
-Scenario: You lose your external drives. Is your data backed up? {% include icon.html icon='cloud-check-fill' %}{% include alert.html text=text color=success %}
+Scenario: You lose your external drives. Is your data backed up? {% include icon.html icon='cloud-check-fill' %}{% endcapture %}{% include alert.html text=text color=success %}
 
 Cloud storage provides a convenient way to store, back up and retrieve data. Well chosen storage solutions will simplify version control and collaboration with others. Cloud storage protects research data against computer failure, hard drive corruption and accidental deletion by making research data restoreable. 
 
