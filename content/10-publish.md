@@ -7,11 +7,13 @@ title: 10 - Publish Data with Persistent Identifiers
 
 <div class="p-3 mb-2 bg-secondary text-white">Scenario: Someone has published contradicting results to your published paper. Can your provide your data and methods?{% include icon.html icon='journal-medical' %}</div> 
 
-
+{% capture text %}
 At the end of your project, make your research data [Findable, Accessible, Interoperable and Re-useable (F.A.I.R)](https://ardc.edu.au/resource/fair-data/) and ultimately reproducible, by publishing it with a Persistant Identifier (PiD) such as a Digital Object Identifier (DOI).
 
-{% capture text %}
+What is the difference?
+
 An *identifier* is any label used to name an item (whether digital or physical).  URLs and serial numbers are an examples of digital identifiers. 
+
 A *persistent identifier* is long-lasting unique digital reference to a webpage, digital object, even a person.
 
 | Identifiers | Persistent Identifiers |
