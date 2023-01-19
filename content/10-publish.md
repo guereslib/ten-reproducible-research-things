@@ -35,7 +35,12 @@ Management of persistent identifiers IS guaranteed:
 * links are kept up to date over a defined time period
 * links will find the object, even when websites change.{% endcapture %}{% include card.html header="Identifiers vs Persistent Identifiers" text=text %}
 
-
+<style>
+tr:nth-child(even) {
+  background-color: #b2b2b2!important;
+  color: #f4f4f4!important;
+}
+</style>
 | Identifiers | Persistent Identifiers |
 | -----| ------|
 | examples: your name, urls, serial numbers | [Open Researcher and Contributor ID (ORCID)](https://orcid.org/), [Digital Object Identifiers (DOI)](https://www.doi.org/) |
