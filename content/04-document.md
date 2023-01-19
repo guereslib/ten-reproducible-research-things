@@ -2,7 +2,7 @@
 nav_order: 5
 title: 4 - Documentation
 ---
-<div class="p-3 mb-2 bg-light text-dark">Scenario: A key person from your research team has disappeared, could you continue your work? {% include icon.html icon='person-x' color="success" %}</div> 
+<div class="p-3 mb-2 bg-secondary text-white">Scenario: A key person from your research team has left suddenly, could you continue your work? {% include icon.html icon='person-x' color="success" %}</div> 
 
 Throughout your research, you make many choices, from topic to methodology, from techniques to measurements, from data source to storage format. The choices you make at one stage will affect the choices you make at the next.  
 
