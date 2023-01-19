@@ -5,10 +5,9 @@ title: 1 - Data quality
 
 {% include figure.html img="TidyImage.JPG" alt="Image representing tidy data" caption="Arrange your data using Tidy Data principles" width="75" %}
 
+<div class="p-3 mb-2 bg-secondary text-white">Scenario - Are your datasets future-proof? Can your provide your data and methods?  {% include icon.html icon='journal-medical' %}</div>
+
 ### "Tidy data" principles
-
-<div class="p-3 mb-2 bg-secondary text-white">Scenario - Are your datasets future-proof? Can your provide your data and methods? {% include icon.html icon='journal-medical' %}</div>
-
 As your research progresses, new possibilities for enquiry might be revealed, and you may want to use a new method to analyse your data. Depending on how you recorded and stored your data, it may take a lot of time-consuming work to reconfigure your datasets before you can process the new analysis. While all the necessary data may exist within your datasets, there may be no simple and reliable method for extracting it.
 
 The principles of **tidy data** developed by [Hadley Wickham](https://hadley.nz/) offer a way of recording your data, be it in spreadsheets or database tables, so that every element within those datasets can easily be accessed for new analysis and modelling. Even if a dataset needs to be reconfigured before being imported into the new software, it will be a simple process to produce the necessary file.
