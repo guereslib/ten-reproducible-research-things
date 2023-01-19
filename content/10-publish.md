@@ -10,6 +10,18 @@ title: 10 - Publish Data with Persistent Identifiers
 
 At the end of your project, make your research data [Findable, Accessible, Interoperable and Re-useable (F.A.I.R)](https://ardc.edu.au/resource/fair-data/) and ultimately reproducible, by publishing it with a Persistant Identifier (PiD) such as a Digital Object Identifier (DOI).
 
+{% capture text %}
+An *identifier* is any label used to name an item (whether digital or physical).  URLs and serial numbers are an examples of digital identifiers. 
+A *persistent identifier* is long-lasting unique digital reference to a webpage, digital object, even a person.
+
+| Identifiers | Persistent Identifiers |
+| -----| ------|
+| examples: your name, urls, serial numbers | [Open Researcher and Contributor ID (ORCID)](https://orcid.org/), [Digital Object Identifiers (DOI)](https://www.doi.org/) |
+| links disappear | links are kept up to date over a defined time period |
+| websites shut down |  links will find the object, even when websites change |
+| product support ends | management guaranteed |
+{:.table}{% endcapture %}{% include card.html header="Identifiers vs Persistent Identifiers" text=text %}
+
 
 {% capture text %}
 #### Identifiers
@@ -35,19 +47,7 @@ Management of persistent identifiers IS guaranteed:
 * links are kept up to date over a defined time period
 * links will find the object, even when websites change.{% endcapture %}{% include card.html header="Identifiers vs Persistent Identifiers" text=text %}
 
-<style>
-tr:nth-child(even) {
-  background-color: #b2b2b2!important;
-  color: #f4f4f4!important;
-}
-</style>
-| Identifiers | Persistent Identifiers |
-| -----| ------|
-| examples: your name, urls, serial numbers | [Open Researcher and Contributor ID (ORCID)](https://orcid.org/), [Digital Object Identifiers (DOI)](https://www.doi.org/) |
-| links disappear | links are kept up to date over a defined time period |
-| websites shut down |  links will find the object, even when websites change |
-| product support ends | management guaranteed |
-{:.table}
+
 
 {% capture text %}
 #### A Digital Object Identifier (DOI) is a unique alphanumeric string that:
