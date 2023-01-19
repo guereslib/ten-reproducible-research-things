@@ -4,7 +4,7 @@ title: 9 - De-identify sensitive data
 ---
 {% include figure.html img="2022-11-29_15-56-19.jpg" alt="Image representing sensitive" caption="Sensitive data introduces a risk of harm or unwanted attention" width="50" %}
 
-{% capture text %}Scenario: Can you show the steps taken and measures put in place to avoid data breaches? {% include icon.html icon='file-earmark-lock2-fill' %} Is your data identifiable?{% endcapture %}
+{% capture text %}Scenario: Can you show the steps taken and measures put in place to avoid data breaches? {% include icon.html icon='file-earmark-lock2-fill' %} Is your data identifiable?{% endcapture %}{% include alert.html text=text color=success %}
 
 Data is considered sensitive when it can be used to identify an individual, species, object, or location that introduces a risk of discrimination, harm, or unwanted attention. 
 
