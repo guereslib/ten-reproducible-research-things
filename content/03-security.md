@@ -11,6 +11,37 @@ Scenario: Can you show the steps taken and measures put in place to avoid data b
 Secure your computer and your network to to reduce the risk of a data breach, theft, hack or misuse. Incorporate the following practices into your everyday routine as well as workplace procedures and policy. Encourage others to do so as well. 
 
 {% capture text %}
+
+{% include figure.html img="Traveling_Unsplash.jpgg" alt="Man in airport watching aircraft take off" caption="How do you stay secure when travelling?" width="75" %}
+
+Computer security when travelling should start well before you touchdown. Ideally, you are prepare your travel IT security in as much detail as the itinerary. Regardless of whether you are planning a personal or business related trip, if you plan on taking any hardware and/or software that has dealt with University or research data, you need to take measures to protect it.
+
+As always, Griffith University cybersecurity will have a detailed list of requirements. However, below are some key steps to remember if travelling overseas with a University device(s). 
+
+### Before Travelling 
+
+* Configure and test that you can connect to the **Griffith University VPN** (if taking a University device).
+* Install and configure a password manager such as **LastPass**
+* Contact Griffith University cybersecurity to determine if your device firewall can be setup with a custom configuration for the duration of travel.
+* Take as little sensitive data as possible. Where able, **only take a deidentified dataset overseas**, unless it is absolutely necessary to work with sensitive data. 
+
+### When Travelling
+
+* Ensure you connect to the internet via the Griffith VPN.
+    * **Caveat:** Check the local laws in the destination country as some jurisdictions ban the use of VPNs in the country.
+* Always use your own charging accessories.
+* Do not connect USB sticks or other accessories to your device. Even if they are a gift.
+* If you recieve any files overseas, or download anything, scan each file for viruses before opening. 
+
+### When Returning
+
+* Report any suspicious activity to Griffith University cybersecurity.
+* Scan any files or downloads that occured oversea which may have been missed when travelling. 
+* Be mindful of any new email senders that might try communicate with you and/or share attachments. Particularly if you were not expecting them, or do not recognise the senders name. 
+
+{% endcapture %}{% include card.html header="Travel Safety" text=text %}
+
+{% capture text %}
 1. Use [strong passwords](https://www.griffith.edu.au/passwords)
 2. [Encrypt](https://www.griffith.edu.au/about-griffith/cybersecurity/data-protection) your computer's hard drive
 3. Avoid unsecure wifi. If it is available, [Eduroam](https://www.griffith.edu.au/internet-access/wifi/eduroam) is a better option than free public or cafe hotspots/networks/wifi.
