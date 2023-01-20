@@ -28,7 +28,7 @@ As always, Griffith University cybersecurity will have a detailed list of requir
 #### When Travelling
 
 * Ensure you connect to the internet via the Griffith VPN.
-    * **Caveat:** Check the local laws in the destination country as some jurisdictions ban the use of VPNs in the country.
+    * **Caveat:** Check the local laws in the destination country as some jurisdictions ban the use of VPNs.
 * Always use your own charging accessories.
 * Do not connect USB sticks or other accessories to your device. Even if they are a gift.
 * If you recieve any files overseas, or download anything, scan each file for viruses before opening. 
