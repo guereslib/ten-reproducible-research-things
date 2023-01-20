@@ -42,7 +42,8 @@ Artificial intelligence and machine learning (AI/ML) are beginning to be used mo
 
 Workflows projects and programs support distributed computing, scalable data processing, or querying large and distributed datasets. Interactive notebooks such as Jupyter/RStudio have a place to support human-computer interaction as steps within steps (chunks) can be analysed for performance, tweaked, and improved.
 
-**An example using climate science**
+**An example using climate science:**
+
 Distributed computing and its scalability has allowed for simulation of high resolution climate models. ML is used to analyse micro-scale weather interactions both in a simulated environment and the real world. Data from space, ground, and ocean sensors can be integrated through various pipelines to one location to be used as a sole source for computaiton, simulation and analysis. 
 
 Please see the image below for a graphic representation of this ARW concept in practice.
