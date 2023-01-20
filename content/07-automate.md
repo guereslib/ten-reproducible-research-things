@@ -33,5 +33,20 @@ Developing code requires an initial outlay of effort, but you will reap rewards 
     * For a qualitative reseearcher, sentiment analysis algorithms can be coded in Python to increase efficiency and capacity of analysed text. The results can then be visualised using graphical packages from Python or R. {% endcapture %}{% include card.html header="Intermediate" text=text %}
 
 {% capture text %}
-Could you code up your work so its completely automated? 
+In 2022, the National Academies of Sciences, Engineering, and Medicine published a report titled *Automated Research Workflows for Accelerated Discovery: Closing the Knowledge Discovery Loop.*
+
+The National Academies Press defines Automated Research Workflows as: (NAS, 2022, p. 22)
+* *ARWs integrate computation, laboratory automation, and tools from artifical intelligence in the performance of tasks that make up the research process such as designing experiements, observations, and simulations; collecting and anlaysing data; amd learning from the results to inform further experiments, observations, and simulations.*
+
+Artificial intelligence and machine learning (AI/ML) are beginning to be used more and more as fundamental drivers of ARW capabilities. The various sub-disciplines of AI/ML can support various stages of ARW design. Such as, text analysis for literature reviews; quantitative data science for analysis, computation, and visualisation; and learning algorithms for future experimental design. 
+
+Workflows projects and programs support distributed computing, scalable data processing, or querying large and distributed datasets. Interactive notebooks such as Jupyter/RStudio have a place to support human-computer interaction as steps within steps (chunks) can be analysed for performance, tweaked, and improved.
+
+**An example using climate science**
+Distributed computing and its scalability has allowed for simulation of high resolution climate models. ML is used to analyse micro-scale weather interactions both in a simulated environment and the real world. Data from space, ground, and ocean sensors can be integrated through various pipelines to one location to be used as a sole source for computaiton, simulation and analysis. 
+
+Please see the image below for a graphic representation of this ARW concept in practice.
+
+{% include figure.html img="Ch7_Climate_Automation_Graphic.JPG" alt="Climate science ARWn" caption="The 'learning and observing' feedback loops associated with this Automated Research Workflow." width="75%" %}
+
 {% endcapture %}{% include card.html header="Advanced" text=text %}
