@@ -42,11 +42,34 @@ To take datasets from outside sources or from inexact processes such as webscrap
 
 The terms "data cleaning" and "data wrangling" are often used interchangably but they can be defined separately as:
 - Data wrangling: transforming and mapping a dataset
-- Data cleaning: removing or correcting data 
+- Data cleaning: removing or correcting data
 
 While small datasets could be altered manually, large scale datasets will require specialised functions or software to process multiple values.
 
 Learn to apply some tidy data methods with this [online module](https://griffithunilibrary.github.io/intro-data-wrangle/) using the open source data cleaning software [OpenRefine](https://openrefine.org/).{% endcapture %}{% include card.html header="Intermediate steps - learn ways to clean and wrangle your data" text=text %}
+
+{% capture text %}
+
+Everyday more and more data is generated and collected, much of which is suitable for some form of analysis. Depending on the nature of your research, you might have data from multiple sources as separate data tables. When you are working with multiple data tables, this is known as having **relational data**.
+
+This is because the data sets have **relations** between certain variables in a **pair of tables**, not just the individual datasets. It is important to note that although you may have any number of data tables, the relations are a defined between the pairs first and foremost.
+
+{% include figure.html img="Relational_Database.JPG" alt="relational data desciption" caption="A generic example of the relational data table concept" width="100%" %}
+
+Data quality, espcially within the context of relational databases can take on a set of diverse defintiions. An often cited framework is total data management quality (TDQM) theory. (Wang & Strong, 1996)
+
+TDQM theory as defined by Wang and Strong 1996 is defined below:
+
+|**Data quality category**     |**Data quality dimensions**                                                                  |
+|:----------------------------:|:-----------------------------------------------:                                            |
+| Intrinsic data qualtiy       | Believability, Accuracy, Objectivity, Reputation                                            |
+| Contextual data quality      | Value-Added, Relevancy, Timeliness, Completeness, Appropriate amount of data                |
+| Representational data quality| Interpretability, Ease of understanding, Representation consistently, Concise representation|
+| Accessibility data quality   | Accessibility, Access Security                                                              |
+
+Further reading on the TDQM theory is available at: Wang, R. (1998). Quality Ma A Product Perspective on Total Data. COMMUNICATIONS OF THE ACM, [online] 41(2). Available at: http://web.mit.edu/tdqm/www/tdqmpub/WangCACMFeb98.pdf.
+
+{% endcapture %}{% include card.html header="Data Quality and Relational Datasets" text=text %}
 
 {% capture text %}
 - Learn R for Data Science, specifically the [tidyr package](https://r4ds.had.co.nz/tidy-data.html), or Python for Data Science and the [pandas package](https://byuidatascience.github.io/python4ds/tidy-data.html).
