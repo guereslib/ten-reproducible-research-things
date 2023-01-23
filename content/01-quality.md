@@ -61,7 +61,7 @@ Data quality, espcially within the context of relational databases can take on a
 TDQM theory as defined by Wang and Strong 1996 is defined below:
 
 | **Data quality category**       | **Data quality dimensions**                                                                    |
-| :-----------------------------: | :--------------------------------------------------------------------------------------------: |
+| :-------------------------------| ---------------------------------------------------------------------------------------------: |
 | Intrinsic data qualtiy          | Believability, Accuracy, Objectivity, Reputation                                               |
 | Contextual data quality         | Value-Added, Relevancy, Timeliness, Completeness, Appropriate amount of data                   |
 | Representational data quality   | Interpretability, Ease of understanding, Representation consistently, Concise representation   |
