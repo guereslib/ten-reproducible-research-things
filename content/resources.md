@@ -30,6 +30,8 @@ title: Reference & Resources
 - Wood-Charlson EM, Crockett Z, Erdmann C, Arkin AP, Robinson CB (2022) Ten simple rules for getting and giving credit for data. PLoS Comput Biol 18(9): e1010476. [https://doi.org/10.1371/journal.pcbi.1010476](https://doi.org/10.1371/journal.pcbi.1010476)
 - University of Edinburgh. (2019). Naming conventions.[https://www.ed.ac.uk/records-management/guidance/records/practical-guidance/naming-conventions](https://www.ed.ac.uk/records-management/guidance/records/practical-guidance/naming-conventions)
 - Westgarth, N. (2014). Better management reduces data loss risk. Research Information. April, 2014. [https://www.researchinformation.info/analysis-opinion/better-management-reduces-data-loss-risk](https://www.researchinformation.info/analysis-opinion/better-management-reduces-data-loss-risk)
+- docs.oracle.com. (2005). Using Discoverer Plus with a relational data source. [online] Available at: https://docs.oracle.com/cd/B14099_19/bi.1012/b13915/i_rel_chapter.htm.
+- Wang, R. (1998). Quality Ma A Product Perspective on Total Data. COMMUNICATIONS OF THE ACM, [online] 41(2). Available at: http://web.mit.edu/tdqm/www/tdqmpub/WangCACMFeb98.pdf.‌
 
 ### Useful resources
 - [100 Days of Code - The Complete Python Course by Replit](https://replit.com)
