@@ -52,7 +52,16 @@ Consider developing a Standard Operating Procedure for your project team or lab.
 
 Read the PLoS article [Ten simple rules on how to write a standard operating procedure](https://doi.org/10.1371/journal.pcbi.1008095) and use the [template](https://zenodo.org/record/3678317#.Y2suUORByUk) the researchers have shared.
 
-You could also try to Sync the document automatically to the cloud with your data. (??This needs a link to more information on how to do this??){% endcapture %}{% include card.html header="Intermediate" text=text %}
+##### Application of cloud solutions to documentation in research
+
+When teams, projects, institutes, or organisations refer to cloud, it can often take on various definitions that are not always clear. In this section, the focus will be made on using cloud technology to **sync** and **store** documentation relevant to your research project. For information on **backups**, please refer to https://guereslib.github.io/ten-reproducible-research-things/content/02-cloud.html.
+
+Further to the concepts of **sync** and **store**, cloud providers can offer their solutions across three key product types:
+1. **IaaS** - Infrastructure as a Service
+2. **PaaS** - Platform as a Service
+3. **SaaS** - Software as a Service
+
+{% endcapture %}{% include card.html header="Intermediate" text=text %}
 
 {% capture text %}
 Now that you've got a good head start, it's time to learn about Git Repositories and wikis for documenting. 
