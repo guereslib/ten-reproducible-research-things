@@ -13,9 +13,12 @@ At the end of your project, make your research data [Findable, Accessible, Inter
 How?
 * Deposit final state data to support your publications in an institutional or discipline data repository which can mint a DOI and create a citation for your work. 
 * Examples include:
-  * [Griffith Research Online (GRO) Data Repository](https://research-repository.griffith.edu.au/handle/10072/392600) 
-  * [re3data.org](https://www.re3data.org/) registry of discipline and other data repositories
-  * [PLoS journals recommended repositories](https://journals.plos.org/plosone/s/recommended-repositories)
+ * [Griffith Research Online (GRO) Data Repository](https://research-repository.griffith.edu.au/handle/10072/392600) 
+ * [Figshare](https://figshare.com/)
+ * [Zenodo](https://zenodo.org/) particularly useful for research code hosted in Github
+ * [Australian Data Archive](https://ada.edu.au/) for large or longitudinal social science datasets
+ * [re3data.org](https://www.re3data.org/) good list of discipline repositories
+ * [PLoS journals recommended repositories](https://journals.plos.org/plosone/s/recommended-repositories)
 
 
 {% capture text %}
