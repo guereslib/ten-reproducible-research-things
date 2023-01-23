@@ -67,8 +67,8 @@ TDQM theory as defined by Wang and Strong 1996 is defined below:
 | Representational data quality   | Interpretability, Ease of understanding, Representation consistently, Concise representation   |
 | Accessibility data quality      | Accessibility, Access Security                                                                 |
 
-Further reading on the TDQM theory is available at: Wang, R. (1998). Quality Ma A Product Perspective on Total Data. COMMUNICATIONS OF THE ACM, [online] 41(2). Available at: http://web.mit.edu/tdqm/www/tdqmpub/WangCACMFeb98.pdf.
 
+Further reading on the TDQM theory is available at: Wang, R. (1998). Quality Ma A Product Perspective on Total Data. COMMUNICATIONS OF THE ACM, [online] 41(2). Available at: http://web.mit.edu/tdqm/www/tdqmpub/WangCACMFeb98.pdf.
 {% endcapture %}{% include card.html header="Data Quality and Relational Datasets" text=text %}
 
 {% capture text %}
