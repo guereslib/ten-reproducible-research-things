@@ -11,6 +11,14 @@ Scenario: Someone has published contradicting results to your published paper.Ca
 {% capture text %}
 At the end of your project, make your research data [Findable, Accessible, Interoperable and Re-useable (F.A.I.R)](https://ardc.edu.au/resource/fair-data/) and ultimately reproducible, by publishing it with a Persistant Identifier (PiD) such as a Digital Object Identifier (DOI).
 
+How?
+* Deposit final state data to support your publications in an institutional or discipline data repository which can mint a DOI and create a citation for your work. 
+* Examples include:
+  * [Griffith Research Online (GRO) Data Repository](https://research-repository.griffith.edu.au/handle/10072/392600) 
+  * [re3data.org](https://www.re3data.org/) registry of discipline and other data repositories
+  * [PLoS journals recommended repositories](https://journals.plos.org/plosone/s/recommended-repositories)
+
+
 What is the difference?
 - An *identifier* is any label used to name an item (whether digital or physical).  URLs and serial numbers are an examples of digital identifiers. Personal names are also identifiers, but are not necessarily unique as you may share the same name with other researchers around the world.
 - A *persistent identifier* is long-lasting unique digital reference to a webpage, digital object, even a person.
@@ -66,14 +74,7 @@ Jessica's research was published in a journal which could also publish and mint 
 
 
 {% capture text %}
-Ensure data you publish or associate with a publication has a DOI. 
-
-How?
-* Deposit final state data to support your publications in an institutional or discipline data repository which can mint a DOI and create a citation for your work. 
-* Examples include:
-  * [Griffith Research Online (GRO) Data Repository](https://research-repository.griffith.edu.au/handle/10072/392600) 
-  * [re3data.org](https://www.re3data.org/) registry of discipline and other data repositories
-  * [PLoS journals recommended repositories](https://journals.plos.org/plosone/s/recommended-repositories)
+* Publish your final state data in a repository which will mint a DOI for you, see the repository links above.
 * Cite your dataset in the references of the articles it supports.  This is the best way for others to find and access your dataset, for reproducibility purposes or to use with attribution in their own research. Professor Mark Finnane illustrates this in the citation to his dataset [*The Prosecution Project Database*](https://prosecutionproject.griffith.edu.au/dataverse/) in reference 27 of his [article](https://research-repository.griffith.edu.au/handle/10072/340488) published in the *UNSW Law Journal*.
 * Contact your Library staff for guidance.{% endcapture %}{% include card.html header="First steps" text=text %}
 
