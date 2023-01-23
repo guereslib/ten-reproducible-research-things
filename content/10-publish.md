@@ -10,8 +10,9 @@ Scenario: Someone has published contradicting results to your published paper.Ca
 
 At the end of your project, make your research data [Findable, Accessible, Interoperable and Re-useable (F.A.I.R)](https://ardc.edu.au/resource/fair-data/) and ultimately reproducible, by publishing it with a Persistant Identifier (PiD) such as a Digital Object Identifier (DOI).
 
-How?
-* Deposit final state data to support your publications in an institutional or discipline data repository which can mint a DOI and create a citation for your work. 
+#### How?
+
+Deposit final state data to support your publications in an institutional or discipline data repository which can mint a DOI and create a citation for your work. 
 * Examples include:
  * [Griffith Research Online (GRO) Data Repository](https://research-repository.griffith.edu.au/handle/10072/392600) 
  * [Figshare](https://figshare.com/)
