@@ -56,9 +56,9 @@ This is because the data sets have **relations** between certain variables in a 
 
 {% include figure.html img="Relational_Database.JPG" alt="relational data desciption" caption="A generic example of the relational data table concept" width="100%" %}
 
-Data quality, espcially within the context of relational databases can take on a set of diverse defintiions. An often cited framework is total data management quality (TDQM) theory. (Wang & Strong, 1996)
+Data quality, espcially within the context of relational databases can take on a set of diverse definitions. An often cited framework is total data management quality (TDQM) theory. (Wang & Strong, 1996)
 
-TDQM theory as defined by Wang and Strong 1996 is defined below:
+TDQM theory is defined below:
 
 | **Data quality category**             | **Data quality dimensions**                                                                    |
 | :-------------------------------------| ---------------------------------------------------------------------------------------------: |
@@ -69,7 +69,7 @@ TDQM theory as defined by Wang and Strong 1996 is defined below:
 {:.table} 
 **Further reading on the TDQM theory is available at:** 
 
-Wang, R. (1998). Quality Ma A Product Perspective on Total Data. COMMUNICATIONS OF THE ACM, [online] 41(2). Available at: http://web.mit.edu/tdqm/www/tdqmpub/WangCACMFeb98.pdf.
+Wang, R. (1998). Quality Ma A Product Perspective on Total Data. COMMUNICATIONS OF THE ACM, [online] 41(2). Available at: [http://web.mit.edu/tdqm/www/tdqmpub/WangCACMFeb98.pdf](http://web.mit.edu/tdqm/www/tdqmpub/WangCACMFeb98.pdf).
 {% endcapture %}{% include card.html header="Data Quality and Relational Datasets" text=text %}
 
 {% capture text %}
