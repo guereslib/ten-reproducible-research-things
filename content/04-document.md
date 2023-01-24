@@ -61,7 +61,7 @@ Further to the concepts of **sync** and **store**, cloud providers can offer the
 2. **PaaS** - Platform as a Service
 3. **SaaS** - Software as a Service
 
-{% include figure.html img="SaaS_IaaS_PaaS_Model.jpg" alt="Cloud Services Model" caption="**Source:** Plesky, E. (2019) IaaS vs paas vs SAAS – cloud service models compared, Plesk. Plesk. Available at: https://www.plesk.com/blog/various/iaas-vs-paas-vs-saas-various-cloud-service-models-compared/ (Accessed: January 24, 2023)." width="50%" %}
+{% include figure.html img="SaaS_IaaS_PaaS_Model.jpg" alt="Cloud Services Model" caption="Source: Plesky, E. (2019) IaaS vs paas vs SAAS – cloud service models compared, Plesk. Plesk. Available at: https://www.plesk.com/blog/various/iaas-vs-paas-vs-saas-various-cloud-service-models-compared/ (Accessed: January 24, 2023)." width="75%" %}
 
 As we can see above, the level of complexity to digitally store and sync documentation increases from SaaS products at the most convenient and accessible end, to IaaS products which have a significant amount of overhead associated with their use.
 
@@ -69,7 +69,9 @@ That is not to say that IaaS solutions are always preferred and assumed to be th
 
 We can see below that alongside complexity, the amount of control is inversely proportionate to ease of set up. 
 
-{% include figure.html img="SaaS_IaaS_PaaS_Control.jpg" alt="Cloud Services Control Graph" caption="**Source:** Tsai, P. (2016) IAAS? Paas? saas? differences between cloud service models, The Spiceworks Community. Spiceworks. Available at: https://community.spiceworks.com/cloud/articles/2504-iaas-paas-saas-differences-between-cloud-service-models (Accessed: January 24, 2023)." width="50%" %}
+{% include figure.html img="SaaS_IaaS_PaaS_Control.jpg" alt="Cloud Services Control Graph" caption="Source: Tsai, P. (2016) IAAS? Paas? saas? differences between cloud service models, The Spiceworks Community. Spiceworks. Available at: https://community.spiceworks.com/cloud/articles/2504-iaas-paas-saas-differences-between-cloud-service-models (Accessed: January 24, 2023)." width="75%" %}
+
+Although each service options (SaaS, PaaS, IaaS) will all achieve sync and storage functions for your documentation. The difference lies in the level of granularity you can manipulate the type of storage, amount of storage, level of access for collaborators, method of sync (live, on save etc.), change tracking, or whether documents remain in the cloud instead of being downlaoded locally each time. 
 
 {% endcapture %}{% include card.html header="Intermediate" text=text %}
 
