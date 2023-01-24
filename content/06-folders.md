@@ -29,7 +29,7 @@ Pick a dataset and illustrate how you currently organise your files.
 Try devising a folder naming convention or note one or two improvements you could make to how you arrange your files.
 
 Try out one of these downloadable templates below:
-* [Here's one you are welcome to download and use](https://github.com/guereslib/MyResearchProjects/archive/master.zip) (double check with Amanda who created this?)
+* [Research project folder structure template](https://github.com/guereslib/MyResearchProjects/archive/master.zip) from [Prof. Michal Allen](https://neuroconscience.wordpress.com/)
 * University of Sydney [README template](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwirpZzmyNL7AhUayTgGHb8tAewQFnoECB8QAQ&url=https%3A%2F%2Flibrary.sydney.edu.au%2Fresearch%2Fdata-management%2Fdownloads%2FREADME-template.docx&usg=AOvVaw0Z3q0K1PsGivmQY-qNFpZL).{% endcapture %}{% include card.html header="First steps" text=text %}
 
 {% capture text %}
