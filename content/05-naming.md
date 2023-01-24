@@ -11,6 +11,42 @@ File names are names that you create when saving a new file, and which are liste
 
 A File Naming Convention (FNC) is a system for naming your all your files, where the filename includes a description of the contents and the context. This is a system that is best established as early as possible; ideally before collection research data. The FNC is then used each time a new file is created for your research.
 
+### Three principles for file names: 
+There are three key principles to guide file naming convention development, as defined by Data Carpentry and Martinez (2015):
+
+1. Machine readable
+2. Human readable
+3. Plays well with default ordering
+
+Lets discuss each key principle below.
+
+###### Machine readable
+
+Within the context of file naming conventions, being machine readable means:
+- Spaces have been avoided. Ideally there are no spaces in any file names.
+- Special characters are used in lieu of spaces i.e. _ or -
+- Case sensitivity is consistent
+
+Another concept in machine readbilty is **globbing**. 
+
+Globbing is the concept of using a wild card symbol, typically a * followed by an extension or consistent string. This wildcard tells the computer to search for all files with that extension or string. For example * .jpg will search for all JPEG files in a directory. An example is shown below:
+
+{% include figure.html img="Globbing.jpg" alt="Image representing globbing" caption="Source: Carpentry, D. and Martinez, C. (2015) File organization: Naming, File Organization: File Organization: Naming. The Carpentries. Available at: https://datacarpentry.org/rr-organization1/01-file-naming/index.html (Accessed: January 24, 2023)." width="75%" %}
+
+###### Human readable
+
+Ensuring your file naming convention is human readable will depend on the context, background knowledge of research user(s), and character spaces availability. In short, use descriptive words. There will be examples of this further below.
+
+###### Plays well with default ordering
+
+Default ordering is best achieved with numbers. This can be chronological i.e. date, or logical i.e. 01, 02, 03...
+
+Depending on the research and your teams preference, a common word could prefix the numeric ordering system. For example:
+- lake01_depth.r
+- lake02_depth.r
+- lake03_depth.r
+- so on....
+
 ### Benefits
 
 If implemented early and consistently, a standardised system or convention for naming files can:
@@ -74,7 +110,27 @@ Source: [IBM Knowledge Centre](https://www.ibm.com/support/knowledgecenter/en/ss
 For more file naming options, read and follow Edinburgh University's simple [13 Rules for file naming conventions](https://www.ed.ac.uk/records-management/guidance/records/practical-guidance/naming-conventions).{% endcapture %}{% include card.html header="Intermediate steps" text=text %}
 
 {% capture text %}
-Do you have a policy in your team around naming conventions? If not, this is a great way of discussing the priorities of the research data.{% endcapture %}{% include card.html header="Advanced steps" text=text %}
+Do you have a policy in your team around naming conventions? If not, this is a great way of discussing the priorities of the research data.
+
+The Minnesota Historical Society (2015) has published a very comprehensive policy development checklist for file naming conventions. Each aspect of developing a holistic file naming convention is detailed below, although only some may be relevant to your research use cases:
+
+**Persistence:** File names should not require human explanation once the creator(s) of the convention have moved on to other work. With robust stakeholder input, and dedicated time, a framework should be developed that lasts the test of time .
+
+**Access and ease of use:** Policy should favour simplicity and logic, particularly for new users of the policy. Through simplification, records will be consistently named and ultimately easier to access and organise when needed. 
+
+**Ease of administration:** If your research requires a degree of legislative oversight, then your FNC policy should empower this. Specifically, the FNC policy will leverage university computing infrastructure where possible to manage records, gather metadata or assist auditing. 
+
+**Scalability:** If it is likely that you will have hundreds or thousands of files requiring naming, then make sure you account for this. Particularly if using numeric prefixes to satisfy the above principle of **playing well with default ordering**. That is, if you only use two numeric placeholders (000,001,002 etc.) then you can only have 999 files. This could become problematic if you ever find yourself with 1000+ files.
+
+**Define the metadata:** Metadata forms the first layer of identification when referencing a file name. It is also the first layer in protecting sensitive and non-sensitive files. For example, by prefixing your files with **sensitive** and **releasable** respecitively, you can prevent sensitive files from being accidentally transferred out of storage, which may breach other policy or legislative requirements. 
+
+**Universal retrieval:** If you work in a large team, ensuring files can be access reliably and efficiently is key to streaminling the research process. To address this point, you may need to consider what file storage system you are using and any security layers protecting sensitive data.
+
+**Define file naming boundaries:** If a large number of researchers are likely to have a role in file naming, ensure that there is adequate training and/or guidance set out in policy. During such training or when giving guidance, be sure to define the boundaries for what is acceptable and unacceptable when naming files. This will support policy compliance that then supports your ongoing operational/legal requirements. 
+
+Source: Electronic Records Management Guidelines (2015) ELECTRONIC RECORDS MANAGEMENT GUIDELINES. Minnesota Historical Society. Available at: https://www.mnhs.org/preserve/records/electronicrecords/erfnaming.php (Accessed: January 24, 2023). 
+
+{% endcapture %}{% include card.html header="Advanced steps" text=text %}
 
 
 ### Internal Resources
