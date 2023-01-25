@@ -24,6 +24,20 @@ Write down the versions of analysis software (like SPSS or NVIVO etc) AND hardwa
 If you are using random numbers in your research, save your random seed generator number as part of your working data. This way, you can later reproduce your results.
 
 {% capture text %}
+
+It kind of sounds like a lot of effort, so why would you want to use version control? What are the benefits? 
+
+**To avoid this!**
+{% include figure.html img="VC_Bad.jpg" alt="Image representing what happens with bad version control" caption="Uncontrollable versions can derail your workflow." width="75%" %}
+
+There are three key advantages of implementing version control practices or procedures that you should keep in mind:
+1. **Infinite undos:** If you control your versions, between **active or live** and **archived**, there will always be scope to reverse or recover a previous copy of a document before changes were made.
+2. **Branching and experimentation:** Being able to effectively make a copy of documentation or code, and identify it as such, you are therefore able to test changes and hypotheses. An example would be taking a copy of commonly used code, labelling it with a descriptive prefix in the file name to identify it is a test version before testing methods to speed up how quickly the code runs.
+3. **Collaboration:** Allowing multiple people to contribute to a document or code can be an immensely powerful advantage that speeds up the progress of research. From using track changes in word processors, or GitHub for code, these platforms often manage the responsibility of highlighting changes, and merging them when required. 
+
+{% endcapture %}{% include card.html header="Why use version control?" text=text %}
+
+{% capture text %}
 Copy your raw data to to a dedicated {% include icon.html icon='folder2-open' %} *RawData* folder in a cloud storage solution, such as [Research Drive](https://research-storage.griffith.edu.au/) for safe keeping.{% endcapture %}{% include card.html header="First steps" text=text %}
 
 {% capture text %}
