@@ -4,6 +4,27 @@ title: 9 - De-identify sensitive data
 ---
 {% include figure.html img="2022-11-29_15-56-19.jpg" alt="Image representing sensitive" caption="Sensitive data introduces a risk of harm or unwanted attention" width="50" %}
 
+{% capture text %}Scenario: Can you show the steps taken and measures put in place to avoid data breaches? {% include icon.html icon='file-earmark-lock2-fill' %} Is your data identifiable?{% endcapture %}{% include alert.html text=text color=success %}
+
+Data is considered sensitive when it can be used to identify an individual, species, object, or location that introduces a risk of discrimination, harm, or unwanted attention. 
+
+#### Categories of sensitive data include:
+
+* personal data
+* health and medical data 
+* ecological data that may place vulnerable species at risk
+* culturally sensitive data
+
+Separating or de-identifying your data usually occurs to protect an individuals privacy.  According to the Commonwealth [Privacy Act 1988](https://www.legislation.gov.au/Details/C2016C00979), "personal information is de-identified if the information is no longer about an identifiable individual or an individual who is reasonably identifiable".  
+
+De-identified information is no longer considered personal information and can be shared. More information on legal definitions and requirements on privacy can be found in the Commonwealth [Privacy Act](https://www.legislation.gov.au/Details/C2016C00979).
+
+De-identifiying aims to allow data to be used by others for publishing, sharing and reuse without the possibility of individuals/location being re-identified. It may also be used to protect the location of archaeological findings, culturally sensitive data (for example archaelogical sites at risk of vandalism or looting) or the location of endangered species.  
+
+Any identifiers (name, date of birth, address or geospatial locations etc.) should be removed from main data set and replaced with a code/key.  The code/key is then encrypted and stored separately. By storing de-identified data in a secure solution, you are meeting safety, controlled, ethical, privacy and funding agency requirements.  
+
+*Re-identifing* an individual can be possible by recombining the de-identifiable data set and the identifiers. There are processes that can be undertaken to mitigate this.
+
 #### What is de-identification?
 
 The term 'de-identification' carries many meanings, including reference to the process of removing or altering information e.g. deleting information that explicitly makes any person identifiable by such information such as names or date of birth. It can also mean altering data to a point where no person can be 'reasonably identified' from the information. That is, when a person is distinguished from a group by means of establishing a link between available information and a specific individual. (OAIC, 2017)
@@ -26,27 +47,6 @@ There are a number of reasons that you will need to de-identify data, usually al
 Ultimately, de-identifying data is an effective mechanism to make sure you do **NOT** appear on this chart:
 
 {% include figure.html img="Data_Breaches_Sensitivity.JPG" alt="Image representing sensitive data breaches" caption="Source: McCandless, D., Evans, T. and Barton, P. (2022) World's biggest data breaches &amp; hacks, Information is Beautiful. Information is Beautiful. Available at: https://www.informationisbeautiful.net/visualizations/worlds-biggest-data-breaches-hacks/ (Accessed: January 27, 2023)." width="100" %}
-
-{% capture text %}Scenario: Can you show the steps taken and measures put in place to avoid data breaches? {% include icon.html icon='file-earmark-lock2-fill' %} Is your data identifiable?{% endcapture %}{% include alert.html text=text color=success %}
-
-Data is considered sensitive when it can be used to identify an individual, species, object, or location that introduces a risk of discrimination, harm, or unwanted attention. 
-
-#### Categories of sensitive data include:
-
-* personal data
-* health and medical data 
-* ecological data that may place vulnerable species at risk
-* culturally sensitive data
-
-Separating or de-identifying your data usually occurs to protect an individuals privacy.  According to the Commonwealth [Privacy Act 1988](https://www.legislation.gov.au/Details/C2016C00979), "personal information is de-identified if the information is no longer about an identifiable individual or an individual who is reasonably identifiable".  
-
-De-identified information is no longer considered personal information and can be shared. More information on legal definitions and requirements on privacy can be found in the Commonwealth [Privacy Act](https://www.legislation.gov.au/Details/C2016C00979).
-
-De-identifiying aims to allow data to be used by others for publishing, sharing and reuse without the possibility of individuals/location being re-identified. It may also be used to protect the location of archaeological findings, culturally sensitive data (for example archaelogical sites at risk of vandalism or looting) or the location of endangered species.  
-
-Any identifiers (name, date of birth, address or geospatial locations etc.) should be removed from main data set and replaced with a code/key.  The code/key is then encrypted and stored separately. By storing de-identified data in a secure solution, you are meeting safety, controlled, ethical, privacy and funding agency requirements.  
-
-*Re-identifing* an individual can be possible by recombining the de-identifiable data set and the identifiers. There are processes that can be undertaken to mitigate this.
 
 #### Australian practical guidance for de-identification
 
