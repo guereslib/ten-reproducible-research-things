@@ -4,6 +4,29 @@ title: 9 - De-identify sensitive data
 ---
 {% include figure.html img="2022-11-29_15-56-19.jpg" alt="Image representing sensitive" caption="Sensitive data introduces a risk of harm or unwanted attention" width="50" %}
 
+#### What is de-identification?
+
+The term 'de-identification' carries many meanings, including reference to the process of removing or altering information e.g. deleting information that explicitly makes any person identifiable by such information such as names or date of birth. It can also mean altering data to a point where no person can be 'reasonably identified' from the information. That is, when a person is distinguished from a group by means of establishing a link between available information and a specific individual. (OAIC, 2017)
+
+**What can happen if data is de-identified in one source, but can still reasonably identify individuals?**
+
+Case study one: During a research project conducted by a university student in 2000, information detailing Massachusetts public servants health insurance information was obtained vua public means. The dataset had names, addresses, social security numbers and other 'identifying' information **removed**. The researchers then obtained a dataset detailing the state voter enrolments for the capital city of Cambridge. This dataset contained personally identifiable information such as name, postcode, address, sex, and date of birth for every enrolled person. Comparing the two datasets, it was reasonably easy to notice six people in the city of Cambridge were born on the same data as the State Governor, with half being men. The voter data allowed researchers to pinpoint the Governor as the only on of those persons living in a certain Cambridge postcode. Once again comparing the voter data to health data, a significant amount of the Governor's health information was revealed. Including medical diagnoses and prescriptions. (Ohm, 2010 and OAIC, 2017)
+
+{% capture text %}Scenario: Can you show the steps taken and measures that **should have been** put in place to avoid such a data breache? {% include icon.html icon='file-earmark-lock2-fill' %} Is your data identifiable?{% endcapture %}{% include alert.html text=text color=success %}
+
+#### Why de-identify?
+
+There are a number of reasons that you will need to de-identify data, usually all these will apply to some extent (OVIC, 2022):
+
+1. **When required by law** such as the Commonwealth [Privacy Act 1988](https://www.legislation.gov.au/Details/C2016C00979) which will be discussed later on in this chapter.
+2. **For risk management purposes** such as using a de-identified dataset rather than a complete original to minimise risk of a privacy breach.
+3. **To promote transparency and accountability** by de-identifying data you can increase open access, and auditing where necessary.
+4. **To enable information to be used in innovative ways** such as supply de-identified data to collaborators or other research teams, or to assist policy and/or decision making. 
+
+Ultimately, de-identifying data is an effective mechanism to make sure you do **NOT** appear on this chart:
+
+{% include figure.html img="Data_Breaches_Sensitivity.JPG" alt="Image representing sensitive data breaches" caption="Source: McCandless, D., Evans, T. and Barton, P. (2022) World's biggest data breaches &amp; hacks, Information is Beautiful. Information is Beautiful. Available at: https://www.informationisbeautiful.net/visualizations/worlds-biggest-data-breaches-hacks/ (Accessed: January 27, 2023)." width="100" %}
+
 {% capture text %}Scenario: Can you show the steps taken and measures put in place to avoid data breaches? {% include icon.html icon='file-earmark-lock2-fill' %} Is your data identifiable?{% endcapture %}{% include alert.html text=text color=success %}
 
 Data is considered sensitive when it can be used to identify an individual, species, object, or location that introduces a risk of discrimination, harm, or unwanted attention. 
