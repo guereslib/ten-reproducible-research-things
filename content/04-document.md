@@ -50,28 +50,7 @@ Document in detail on how your workflow goes from your raw data to the finished 
 
 Consider developing a Standard Operating Procedure for your project team or lab.   
 
-Read the PLoS article [Ten simple rules on how to write a standard operating procedure](https://doi.org/10.1371/journal.pcbi.1008095) and use the [template](https://zenodo.org/record/3678317#.Y2suUORByUk) the researchers have shared.
-
-##### Application of cloud solutions to documentation in research
-
-When teams, projects, institutes, or organisations refer to cloud, it can often take on various definitions that are not always clear. In this section, the focus will be made on using cloud technology to **sync** and **store** documentation relevant to your research project. For information on **backups**, please refer to https://guereslib.github.io/ten-reproducible-research-things/content/02-cloud.html.
-
-Further to the concepts of **sync** and **store**, cloud providers can offer their solutions across three key product types:
-1. **IaaS** - Infrastructure as a Service
-2. **PaaS** - Platform as a Service
-3. **SaaS** - Software as a Service
-
-{% include figure.html img="SaaS_IaaS_PaaS_Model.jpg" alt="Cloud Services Model" caption="Source: Plesky, E. (2019) IaaS vs paas vs SAAS – cloud service models compared, Plesk. Plesk. Available at: https://www.plesk.com/blog/various/iaas-vs-paas-vs-saas-various-cloud-service-models-compared/ (Accessed: January 24, 2023)." width="75%" %}
-
-As we can see above, the level of complexity to digitally store and sync documentation increases from SaaS products at the most convenient and accessible end, to IaaS products which have a significant amount of overhead associated with their use.
-
-That is not to say that IaaS solutions are always preferred and assumed to be the *best* solution. Depending on the size of your project, budget, and available time, SaaS solutions may be a better option. 
-
-We can see below that alongside complexity, the amount of control is inversely proportionate to ease of set up. 
-
-{% include figure.html img="SaaS_IaaS_PaaS_Control.jpg" alt="Cloud Services Control Graph" caption="Source: Tsai, P. (2016) IAAS? Paas? saas? differences between cloud service models, The Spiceworks Community. Spiceworks. Available at: https://community.spiceworks.com/cloud/articles/2504-iaas-paas-saas-differences-between-cloud-service-models (Accessed: January 24, 2023)." width="75%" %}
-
-Although each service options (SaaS, PaaS, IaaS) will all achieve sync and storage functions for your documentation. The difference lies in the level of granularity you can manipulate the type of storage, amount of storage, level of access for collaborators, method of sync (live, on save etc.), change tracking, or whether documents remain in the cloud instead of being downlaoded locally each time. 
+Read the PLoS article [Ten simple rules on how to write a standard operating procedure](https://doi.org/10.1371/journal.pcbi.1008095) and use the [template](https://zenodo.org/record/3678317#.Y2suUORByUk) the researchers have shared. 
 
 {% endcapture %}{% include card.html header="Intermediate" text=text %}
 
@@ -84,9 +63,8 @@ Check out examples of documentation or readme files in these Australian research
 * Dinusha, B., Howell, L., Silbert, M., Daraganova, G. (2021). Ten to Men: The Australian Longitudinal Study on Male Health, Release 3 (Waves 1-3),, ADA Dataverse, V4. (Dataset). [doi:10.26193/JDE1TD](doi:10.26193/JDE1TD)
 * Komarek, A., M. (2021). Replication Data for the study on income, consumer preferences, and the future of livestock-derived food demand. Dataverse. (Data Collection). [https://doi.org/10.7910/DVN/ZPWQBB](https://doi.org/10.7910/DVN/ZPWQBB){% endcapture %}{% include card.html header="Advanced" text=text %}
 
-
 ### Internal Resources
-* ??Wiki options at Griffith??
+* Atlassian Confluence - COMING SOON
 * [Sharepoint at Griffith](https://griffitheduau.sharepoint.com/sites/Productivity-Content/SitePages/SharePoint-Online.aspx)
 * [Research Space](https://research-storage.griffith.edu.au/)
 * Griffith's Gitlab wiki options - talk to [eResearch Support](https://www.griffith.edu.au/eresearch-services) or [Hacky Hour](https://www.griffith.edu.au/eresearch-services/hacky-hour)
