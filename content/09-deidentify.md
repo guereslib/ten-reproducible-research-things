@@ -68,6 +68,39 @@ Ultimately, de-identifying data is an effective mechanism to make sure you do **
 * Store the log separately from the de-identified data files
 * Identify replacements in text in a meaningful way, e.g. in transcribed interviews indicate replaced text with [brackets] or use XML markup tags e.g. <anon>.....</anon>
 
+#### Quantitative de-identification methods
+
+Some research may require the use of de-deidentification methods that produce a quantitative measure of **how** de-identified the data is, and thus whether or not it is suitable for continued use.
+
+##### k-Anonymity
+
+k-anonymity was introduced in the late 1990's and is built on the concept that individually identifiable data can be combined across rows with similiar attributes. It is often referred to as *hiding in the crowd*. The *k* refers to the number of times a combination of variables appears in a dataset. The smaller (closest to 0), the better. (Devane, 2021)
+
+An example of this in practice is to imagine a dataset of 1000 individual records specifying information such as name, postcode, age, gender, body measurements, and key health diagnosis data. In order to achieve k-anonymity in this instance, names could be removed as they are not necessary to analyse health data. Postcodes can be extended to include a local government area, council municipality or other geographic region. Furthermore, age could be generalised to ranges such as 18-24, 25-40 and so on. (Devane, 2021 and OVIC, 2022)
+
+Lets say we have removed data and generalised remaining variables to a point that only 2 combinations of age bracket, geographic area, and gender appear throughout the dataset at any one time. It would then be said that the dataset has a k-anonymity of *k = 2* or is 2-anonymous. (Devane, 2021)
+
+##### Differential privacy
+
+Differential privacy is a method primarily reserved for large databases, through which the use of these databases is to derive a statistical output. 
+
+The Harvard University Privacy Tools Project (2023) defines differential privacy as:
+
+"...a rigorous mathematical definition of privacy. In the simplest setting, consider an algorithm that analyzes a dataset and computes statistics about it (such as the data's mean, variance, median, mode, etc.). Such an algorithm is said to be differentially private if by looking at the output, one cannot tell whether any individual's data was included in the original dataset or not. In other words, the guarantee of a differentially private algorithm is that its behavior hardly changes when a single individual joins or leaves the dataset -- anything the algorithm might output on a database containing some individual's information is almost as likely to have come from a database without that individual's information."
+
+{% include figure.html img="Differential_Privacy.jpg" alt="Image representing the concept of differential privacy" caption="Source: Devaux, E. (2022) What is differential privacy: Definition, mechanisms, and examples, Statice AI. Statice AI. Available at: https://www.statice.ai/post/what-is-differential-privacy-definition-mechanisms-examples (Accessed: January 27, 2023)." width="100" %}
+
+Differential privacy works primarily through the addition of calibrated noise. The 'noise' or 'randomness' is added to the dataset in a mathematically sound way that preserves overall accuracy of analysis. 
+
+An example of this in practice is if a researcher administers a survey exploring how many individuals have cheated on tax returns in the previous financial year as a 'yes or no' response. Participants are told that all responses will undergo a differential privacy process to encourage truthful responses. In this scenario, an individual answers the question and then a coin is tossed. If the result is *heads* then the response is kept **as is** and recorded correctly. If the result is tails, the coin is tossed **a second time**. Again, if the result is *heads* then the response is kept **as is** otherwise the opposite answer is recorded.
+
+In the above example, there is a 75% chance that the correct answer will be recorded, but ultimately it gives the respondent a degree of plausibile deniability if questioned or attempted to be held liable. This high percentage of a correct answer maintains consistency in data collection and allows for patterns to still be inferred. 
+
+There are some limitations to differential privacy which make it more of a unique tool rather than one that should be used all the time. These limitations include but are not limited to:
+- Suitability only for large datasets
+- Results are not exact for general computations
+- Results are not suitable for individual or microscale insights
+
 #### Management of identifiable data
 
 Data may often need to be identifiable during the process of research. If data is identifiable then ethical and privacy requirements can be met through *access control and data security*. This may take the form of:
