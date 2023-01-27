@@ -96,7 +96,7 @@ An example of this in practice is if a researcher administers a survey exploring
 
 In the above example, there is a 75% chance that the correct answer will be recorded, but ultimately it gives the respondent a degree of plausibile deniability if questioned or attempted to be held liable. This high percentage of a correct answer maintains consistency in data collection and allows for patterns to still be inferred. 
 
-There are some limitations to differential privacy which make it more of a unique tool rather than one that should be used all the time. These limitations include but are not limited to:
+There are some limitations to differential privacy which make it more of a unique tool rather than one that should be used all the time. These limitations include but are not limited to (Harness, 2022):
 - Suitability only for large datasets
 - Results are not exact for general computations
 - Results are not suitable for individual or microscale insights
