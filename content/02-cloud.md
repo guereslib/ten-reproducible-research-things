@@ -40,6 +40,7 @@ Is a solution for long term storage and backup of data. The Research Vault is su
 <p>
 </p>
 
+{% capture text %}
 ##### Application of cloud solutions to documentation in research
 
 When teams, projects, institutes, or organisations refer to cloud, it can often take on various definitions that are not always clear. In this section, the focus will be made on using cloud technology to **sync** and **store** documentation relevant to your research project. For information on **backups**, please refer to https://guereslib.github.io/ten-reproducible-research-things/content/02-cloud.html.
@@ -60,6 +61,8 @@ We can see below that alongside complexity, the amount of control is inversely p
 {% include figure.html img="SaaS_IaaS_PaaS_Control.jpg" alt="Cloud Services Control Graph" caption="Source: Tsai, P. (2016) IAAS? Paas? saas? differences between cloud service models, The Spiceworks Community. Spiceworks. Available at: https://community.spiceworks.com/cloud/articles/2504-iaas-paas-saas-differences-between-cloud-service-models (Accessed: January 24, 2023)." width="75%" %}
 
 Although each service options (SaaS, PaaS, IaaS) will all achieve sync and storage functions for your documentation. The difference lies in the level of granularity you can manipulate the type of storage, amount of storage, level of access for collaborators, method of sync (live, on save etc.), change tracking, or whether documents remain in the cloud instead of being downlaoded locally each time.
+
+{% endcapture %}{% include card.html header="Vendor based cloud solutions" text=text %}
 
 {% capture text %}Back up your data to the cloud in [Research Storage](https://research-storage.griffith.edu.au/) - if you need help selecting the right storage solution for your context, talk to the [Library](https://www.griffith.edu.au/library/contact) or [eResearch Services](https://www.griffith.edu.au/eresearch-services#contact).{% endcapture %}{% include card.html header="Beginner" text=text %}
 
