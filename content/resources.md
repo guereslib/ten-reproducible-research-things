@@ -32,6 +32,15 @@ title: Reference & Resources
 - Westgarth, N. (2014). Better management reduces data loss risk. Research Information. April, 2014. [https://www.researchinformation.info/analysis-opinion/better-management-reduces-data-loss-risk](https://www.researchinformation.info/analysis-opinion/better-management-reduces-data-loss-risk)
 - docs.oracle.com. (2005). Using Discoverer Plus with a relational data source. [online] Available at: https://docs.oracle.com/cd/B14099_19/bi.1012/b13915/i_rel_chapter.htm.
 - Wang, R. (1998). Quality Ma A Product Perspective on Total Data. COMMUNICATIONS OF THE ACM, [online] 41(2). Available at: http://web.mit.edu/tdqm/www/tdqmpub/WangCACMFeb98.pdf.‌
+- Devane, H. (2021) Everything you need to know about K-anonymity, Everything You Need to Know About K-Anonymity. Immuta. Available at: https://www.immuta.com/blog/k-anonymity-everything-you-need-to-know-2021-guide/ (Accessed: January 27, 2023). 
+- Devaux, E. (2022) What is differential privacy: Definition, mechanisms, and examples, Statice AI. Statice AI. Available at: https://www.statice.ai/post/what-is-differential-privacy-definition-mechanisms-examples (Accessed: January 27, 2023). 
+- Harness, Y. (2022) What is differential privacy? Duality Technologies. Available at: https://dualitytech.com/what-is-differential-privacy/ (Accessed: January 27, 2023). 
+- Harvard University Privacy Tools Project (2023) Differential Privacy, Harvard University Privacy Tools Project. Harvard University . Available at: https://privacytools.seas.harvard.edu/differential-privacy (Accessed: January 27, 2023). 
+- Longwood Research Data Management (no date) Version control, Version Control. Harvard Medical School. Available at: https://datamanagement.hms.harvard.edu/collect/version-control#:~:text=Infinite%20undos%3A%20VSC%20allows%20users,from%20a%20prior%20version%20save. (Accessed: January 25, 2023). 
+- McCandless, D., Evans, T. and Barton, P. (2022) World's biggest data breaches &amp; hacks, Information is Beautiful. Information is Beautiful. Available at: https://www.informationisbeautiful.net/visualizations/worlds-biggest-data-breaches-hacks/ (Accessed: January 27, 2023). 
+- Office of the Australian Information Commissioner (OAIC) (2017) What is personal information? Australian Government. Available at: https://www.oaic.gov.au/privacy/guidance-and-advice/what-is-personal-information (Accessed: January 27, 2023). 
+- Office of the Victorian Information Commissioner (OVIC) (2022) An introduction to de-identification, AN INTRODUCTION TO DE-IDENTIFICATION. Victorian State Government. Available at: https://ovic.vic.gov.au/privacy/resources-for-organisations/an-introduction-to-de-identification/ (Accessed: January 27, 2023). 
+- Paul Ohm, 2010, ‘Broken Promises of Privacy: Responding to the Surprising Failure of Anonymization’, UCLA Law Review, Vol. 57, p. 1701.
 
 ### Useful resources
 - [100 Days of Code - The Complete Python Course by Replit](https://replit.com)
