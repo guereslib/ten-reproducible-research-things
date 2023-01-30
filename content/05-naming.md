@@ -20,7 +20,7 @@ There are three key principles to guide file naming convention development, as d
 
 Lets discuss each key principle below.
 
-###### Machine readable
+#### Machine readable
 
 Within the context of file naming conventions, being machine readable means:
 - Spaces have been avoided. Ideally there are no spaces in any file names.
@@ -33,11 +33,11 @@ Globbing is the concept of using a wild card symbol, typically a * followed by a
 
 {% include figure.html img="Globbing.jpg" alt="Image representing globbing" caption="Source: Carpentry, D. and Martinez, C. (2015) File organization: Naming, File Organization: File Organization: Naming. The Carpentries. Available at: https://datacarpentry.org/rr-organization1/01-file-naming/index.html (Accessed: January 24, 2023)." width="75%" %}
 
-###### Human readable
+#### Human readable
 
 Ensuring your file naming convention is human readable will depend on the context, background knowledge of research user(s), and character spaces availability. In short, use descriptive words. There will be examples of this further below.
 
-###### Plays well with default ordering
+#### Plays well with default ordering
 
 Default ordering is best achieved with numbers. This can be chronological i.e. date, or logical i.e. 01, 02, 03...
 
