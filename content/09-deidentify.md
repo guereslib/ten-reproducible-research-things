@@ -124,3 +124,14 @@ Five Safe Framework has five dimensions with associated risks and management sol
 
 Watch this short video from the UK Data Service on how the framework can be applied.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Mln9T52mwj0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+{% capture text %}
+
+QCIF Bioinformatics is a service available to Griffith University researchers via the University's membership with QCIF. 
+
+Consultations are free and capped at one-hour, however they can be highly beneficial to a variety of research tasks, including:
+- Experiemental design (e.g. sample size, and power calculations)
+- Statistical/Bioinformatics analysis methods
+- Data Management Planning
+
+{% endcapture %}{% include card.html header="QCIF Member Advice" text=text %}
