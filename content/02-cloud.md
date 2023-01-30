@@ -43,7 +43,7 @@ Is a solution for long term storage and backup of data. The Research Vault is su
 {% capture text %}
 ##### Application of cloud solutions to documentation in research
 
-When teams, projects, institutes, or organisations refer to cloud, it can often take on various definitions that are not always clear. In this section, the focus will be made on using cloud technology to **sync** and **store** documentation relevant to your research project. For information on **backups**, please refer to https://guereslib.github.io/ten-reproducible-research-things/content/02-cloud.html.
+When teams, projects, institutes, or organisations refer to cloud, it can often take on various definitions that are not always clear. In this section, the focus will be made on using cloud technology to **sync** and **store** documentation relevant to your research project.
 
 Further to the concepts of **sync** and **store**, cloud providers can offer their solutions across three key product types:
 1. **IaaS** - Infrastructure as a Service
