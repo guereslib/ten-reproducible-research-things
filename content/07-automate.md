@@ -30,7 +30,25 @@ Developing code requires an initial outlay of effort, but you will reap rewards 
     * Code can be used to automatically process data, impute corrections, or format data into long/wide structures. 
 
 * **Data Analysis and Visualisation**
-    * For a qualitative reseearcher, sentiment analysis algorithms can be coded in Python to increase efficiency and capacity of analysed text. The results can then be visualised using graphical packages from Python or R. {% endcapture %}{% include card.html header="Intermediate" text=text %}
+    * For a qualitative reseearcher, sentiment analysis algorithms can be coded in Python to increase efficiency and capacity of analysed text. The results can then be visualised using graphical packages from Python or R. 
+
+## Create and Capture
+
+Collecting qualitative data is commonplace across many research projects. As such, having a robust automated survey solution can improve research workflows and the quality of data being collected.
+
+Griffith University maintains two official survey tools:
+
+* REDCap (Research Electronic Data Capture)
+* LimeSurvey
+
+Each solution has different strengths and its own use cases. To learn more about these tools, visit this Griffith site: https://www.griffith.edu.au/library/research-publishing/working-with-data/create-and-capture
+
+There are also two repositories for self-paced learning: 
+
+* REDCap - https://griffithunilibrary.github.io/redcap-intro/
+* LimeSurvey - https://griffithunilibrary.github.io/limesurvey/
+
+{% endcapture %}{% include card.html header="Intermediate" text=text %}
 
 {% capture text %}
 In 2022, the National Academies of Sciences, Engineering, and Medicine published a report titled *Automated Research Workflows for Accelerated Discovery: Closing the Knowledge Discovery Loop.*
@@ -49,5 +67,7 @@ Distributed computing and its scalability has allowed for simulation of high res
 Please see the image below for a graphic representation of this ARW concept in practice.
 
 {% include figure.html img="Ch7_Climate_Automation_Graphic.JPG" alt="Climate science ARWn" caption="The 'learning and observing' feedback loops associated with this Automated Research Workflow." width="75%" %}
+
+**If you identify the need for an Automated Research Workflow in your project, contact eResearch Services at Griffith University to start the conversation at: https://www.griffith.edu.au/eresearch-services**
 
 {% endcapture %}{% include card.html header="Advanced" text=text %}
