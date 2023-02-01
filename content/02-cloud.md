@@ -60,7 +60,7 @@ We can see below that alongside complexity, the amount of control is inversely p
 
 {% include figure.html img="SaaS_IaaS_PaaS_Control.jpg" alt="Cloud Services Control Graph" caption="Source: Tsai, P. (2016) IAAS? Paas? saas? differences between cloud service models, The Spiceworks Community. Spiceworks. Available at: https://community.spiceworks.com/cloud/articles/2504-iaas-paas-saas-differences-between-cloud-service-models (Accessed: January 24, 2023)." width="75%" %}
 
-Although each service options (SaaS, PaaS, IaaS) will all achieve sync and storage functions for your documentation. The difference lies in the level of granularity you can manipulate the type of storage, amount of storage, level of access for collaborators, method of sync (live, on save etc.), change tracking, or whether documents remain in the cloud instead of being downlaoded locally each time.
+Although each service options (SaaS, PaaS, IaaS) will all achieve sync and storage functions for your documentation. The difference lies in the level of granularity you can manipulate the type of storage, amount of storage, level of access for collaborators, method of sync (live, on save etc.), change tracking, or whether documents remain in the cloud instead of being downloaded locally each time.
 
 {% endcapture %}{% include card.html header="Vendor based cloud solutions" text=text %}
 
