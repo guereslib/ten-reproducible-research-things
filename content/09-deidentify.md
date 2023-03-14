@@ -134,4 +134,6 @@ Consultations are free and capped at one-hour, however they can be highly benefi
 - Statistical/Bioinformatics analysis methods
 - Data Management Planning
 
+Contact [Griffith University's eResearch team](eResearch-support@griffith.edu.au) to access the service.
+
 {% endcapture %}{% include card.html header="QCIF Member Advice" text=text %}
