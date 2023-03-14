@@ -101,7 +101,7 @@ There are some limitations to differential privacy which make it more of a uniqu
 - Results are not exact for general computations
 - Results are not suitable for individual or microscale insights
 
-Watch the short video below to learn how differential privacy works.
+Watch the short video below from USA National Institute of Standards and Technology (NIST) to learn how differential privacy works.
 <iframe src="https://cdnapisec.kaltura.com/p/684682/sp/68468200/embedIframeJs/uiconf_id/31013851/partner_id/684682?iframeembed=true&playerId=iframeVid&entry_id=1_1gdvn2gi&flashvars[streamerType]=auto" width="560" height="315" allowfullscreen webkitallowfullscreen mozAllowFullScreen allow="autoplay *; fullscreen *; encrypted-media *" frameborder="0"></iframe>
 
 #### Management of identifiable data
