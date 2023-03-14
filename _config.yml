@@ -29,7 +29,7 @@ author: Griffith University Library
 # year or date published, displayed in sidebar
 publication_year: 2022
 # location of code, the full url to your github repository
-source-code: https://github.com/learn-static/lesson-template
+source-code: https://github.com/guereslib/ten-reproducible-research-things/
 # content license (typically "cc by-sa"), displayed in sidebar
 content_license: "CC BY-SA"
 # URL to the content license
